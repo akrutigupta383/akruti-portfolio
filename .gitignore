@@ -1,0 +1,7 @@
+dist/
+output/
+.DS_Store
+node_modules/
+*.msi
+publish-portfolio.bat
+publish-log.txt
